@@ -1,0 +1,14 @@
+langchain
+chromadb
+unstructured
+pdfminer.six
+openai
+tiktoken
+streamlit
+langchain-community
+langchain-google-genai
+unstructured
+pdfminer.six
+chromadb
+sentence-transformers
+python-dotenv
